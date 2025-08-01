@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Data Scientists and Machine Learning<br>
+## Data Scientists and Machine Learner<br>
 
 
 ## 🌐 Socials:
