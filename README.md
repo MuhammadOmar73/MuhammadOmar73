@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Data Scientists and Machine Learner
+# Data Analyst → Aspiring Data Scientist | Machine Learning Projects | Python, Pandas, Scikit-learn, XGBoost
 
 
 ## 🌐 Socials:
